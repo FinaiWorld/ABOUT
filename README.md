@@ -1,9 +1,9 @@
 # About
-💼 FinAI – AI-Powered Portfolio Intelligence Platform
+**💼 FinAI – AI-Powered Portfolio Intelligence Platform**
 
 FinAI is an intelligent financial analytics and portfolio management platform that empowers investors to make smarter, data-driven decisions. Built with advanced AI models and real-time market data, FinAI analyzes each investor’s portfolio to uncover hidden trends, detect underperforming stocks, and provide actionable insights for better performance and reduced risk.
 
-🚀 Key Features
+**🚀 Key Features**
 
 AI-Driven Portfolio Analysis – Get a 360° view of portfolio performance, diversification, and growth trends.
 
@@ -17,7 +17,7 @@ Benchmark Comparison – Compare your portfolio’s returns with market indices 
 
 Automated Risk Scoring – Instantly gauge your investment risk with dynamic, AI-computed scores.
 
-🧠 Technology Stack
+**🧠 Technology Stack**
 
 Backend: Django, Python
 
@@ -29,6 +29,6 @@ Frontend: HTML, CSS, JS (Integrated via Django Templates)
 
 Deployment: Docker + Azure App Service
 
-🌐 Vision
+**🌐 Vision**
 
 FinAI aims to simplify financial analysis for everyday investors by combining the depth of quantitative analytics with the clarity of AI-driven storytelling. The goal is to democratize intelligent investing — helping users understand not just what their portfolio is doing, but why it’s performing that way.
